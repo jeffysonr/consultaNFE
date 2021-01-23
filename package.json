@@ -1,5 +1,5 @@
 {
-  "name": "consultanfe-clone",
+  "name": "consultanfeclone",
   "version": "1.4.0",
   "description": "Retorna os dados de uma NFE (Nota Fiscal Eletrônica), baseado no QRCode",
   "main": "dist/index.js",
