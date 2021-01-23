@@ -1,6 +1,6 @@
 import consulta from './consulta';
 
-export = class ConsultaNFE {
+export = class ConsultaNFEClone {
   private qrCodeURL: URL;
   private uf: string = '';
   private consulta: any = consulta;
